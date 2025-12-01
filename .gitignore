@@ -1,0 +1,47 @@
+# Archivos compilados
+*.class
+
+# Archivos de log
+*.log
+
+# Carpetas de compilación comunes
+/bin/
+/out/
+/build/
+/target/
+
+# Archivos generados por el IDE
+.vscode/
+*.code-workspace
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Archivos innecesarios de Java
+*.jar
+*.war
+*.ear
+
+# Configuración de IntelliJ/IDEA
+.idea/
+*.iml
+*.iws
+
+# Configuración de Eclipse
+.project
+.classpath
+.settings/
+
+# Configuración de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
